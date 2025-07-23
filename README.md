@@ -35,9 +35,8 @@
 
 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibnsy&show_icons=true&theme=dark&hide=prs&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsy&layout=compact&theme=dark" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnsyaebatul&show_icons=true&theme=dark&hide=prs&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsyaebatul&layout=compact&theme=dark" />
 
 ---
 
