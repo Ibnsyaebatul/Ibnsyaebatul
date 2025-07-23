@@ -8,7 +8,7 @@
 🌐 **About Me**
 - 👨‍💻 I go by `IbnHax0r` — passionate about the art of hacking & secure development
 - 💼 Building: [SIMUDA](https://simuda.my.id) — A smart school management system
-- ☕ Side Project: [idcaffee](https://github.com/ibnsy/idcaffee) — Simple POS system for small businesses
+- ☕ Side Project: [idcaffee](https://github.com/Ibnsyaebatul/idcaffee) — Simple POS system for small businesses
 - ⚡ Fun Fact: I love analyzing vulnerabilities & building secure backend systems
 
 ---
@@ -35,9 +35,8 @@
 
 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibnsyaebatul&show_icons=true&theme=dark&hide=prs&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsyaebatul&layout=compact&theme=dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnsyaebatul&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsyaebatul&layout=compact&theme=tokyonight" />
 ---
 
 📫 **Contact Me**
